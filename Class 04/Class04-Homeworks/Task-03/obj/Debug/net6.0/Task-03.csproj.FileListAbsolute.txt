@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\bin\Debug\net6.0\Task-03.exe
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\bin\Debug\net6.0\Task-03.deps.json
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\bin\Debug\net6.0\Task-03.runtimeconfig.json
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\bin\Debug\net6.0\Task-03.dll
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\bin\Debug\net6.0\Task-03.pdb
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.AssemblyInfo.cs
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.dll
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\refint\Task-03.dll
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.pdb
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\Task-03.genruntimeconfig.cache
+C:\Users\User\Desktop\Homeworks C#\Class 04\Class04-Homeworks\Task-03\obj\Debug\net6.0\ref\Task-03.dll
